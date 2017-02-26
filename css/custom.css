@@ -1,0 +1,9 @@
+.site-description {
+    background: #314549;
+    color: white;
+}
+
+.gallery-row-1 {
+    height: 300px;
+    overflow: hidden;
+}
